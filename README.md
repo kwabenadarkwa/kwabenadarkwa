@@ -1,4 +1,4 @@
 # Hey, I'm Kwabena! ✋
-- I am currently a 🏄Teaching Assitant at Kwame Nkrumah University of Science and Technology(KNUST)
-- Building a realtime communication platform using HTMX and Golang similar to [drop.lol](drop.lol)
+- I am currently a 🏄 Master of Software Engineering student an NTU
+- Currently learning C#(will build project soon)
 - I use Vim btw -> check out my nvim config [here](https://github.com/kwabenadarkwa/nvim.git)😆
